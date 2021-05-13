@@ -8,18 +8,22 @@
 	url = https://github.com/grimbough/arrayqualitymetrics
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/grimbough/rhdf5
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/grimbough/rhdf5filters
 	shallow = true
 	registered = true
+	oncran = true
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/grimbough/rhdf5lib
 	shallow = true
 	registered = true
+	oncran = true
