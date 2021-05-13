@@ -1,0 +1,18 @@
+[
+  {
+    "package": "arrayQualityMetrics",
+    "oncran": true
+  },
+  {
+    "package": "rhdf5",
+    "oncran": true
+  },
+  {
+    "package": "rhdf5filters",
+    "oncran": true
+  },
+  {
+    "package": "Rhdf5lib",
+    "oncran": true
+  }
+]
