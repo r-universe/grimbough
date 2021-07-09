@@ -1,14 +1,11 @@
 [
   {
-    "package": "arrayQualityMetrics"
-  },
-  {
     "package": "rhdf5"
   },
   {
-    "package": "rhdf5filters"
+    "package": "Rhdf5lib"
   },
   {
-    "package": "Rhdf5lib"
+    "package": "rhdf5filters"
   }
 ]
