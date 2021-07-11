@@ -18,3 +18,13 @@
 	url = https://github.com/grimbough/rhdf5filters
 	shallow = true
 	registered = true
+[submodule "biomaRt"]
+	path = biomaRt
+	url = https://github.com/grimbough/biomaRt
+	shallow = true
+	registered = true
+[submodule "FITfileR"]
+	path = FITfileR
+	url = https://github.com/grimbough/FITfileR
+	shallow = true
+	registered = true
