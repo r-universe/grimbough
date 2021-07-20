@@ -13,5 +13,17 @@
   },
   {
     "package": "FITfileR"
+  },
+  {
+    "package": "msmbstyle"
+  },
+  {
+    "package": "IONiseR"
+  },
+  {
+    "package": "arrayQualityMetrics"
+  },
+  {
+    "package": "BeadDataPackR"
   }
 ]

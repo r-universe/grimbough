@@ -28,3 +28,23 @@
 	url = https://github.com/grimbough/FITfileR
 	shallow = true
 	registered = true
+[submodule "msmbstyle"]
+	path = msmbstyle
+	url = https://github.com/grimbough/msmbstyle
+	shallow = true
+	registered = true
+[submodule "IONiseR"]
+	path = IONiseR
+	url = https://github.com/grimbough/IONiseR
+	shallow = true
+	registered = true
+[submodule "arrayQualityMetrics"]
+	path = arrayQualityMetrics
+	url = https://github.com/grimbough/arrayQualityMetrics
+	shallow = true
+	registered = true
+[submodule "BeadDataPackR"]
+	path = BeadDataPackR
+	url = https://github.com/grimbough/BeadDataPackR
+	shallow = true
+	registered = true
