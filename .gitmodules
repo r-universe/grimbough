@@ -48,3 +48,8 @@
 	url = https://github.com/grimbough/BeadDataPackR
 	shallow = true
 	registered = true
+[submodule "beadarray"]
+	path = beadarray
+	url = https://git.bioconductor.org/packages/beadarray
+	shallow = true
+	registered = true

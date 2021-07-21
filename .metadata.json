@@ -25,5 +25,8 @@
   },
   {
     "package": "BeadDataPackR"
+  },
+  {
+    "package": "beadarray"
   }
 ]
