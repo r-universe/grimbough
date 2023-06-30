@@ -1,55 +1,34 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/grimbough/universe
-	shallow = true
 	branch = HEAD
 [submodule "rhdf5"]
 	path = rhdf5
 	url = https://github.com/grimbough/rhdf5
-	shallow = true
-	registered = true
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/grimbough/Rhdf5lib
-	shallow = true
-	registered = true
 [submodule "rhdf5filters"]
 	path = rhdf5filters
 	url = https://github.com/grimbough/rhdf5filters
-	shallow = true
-	registered = true
 [submodule "biomaRt"]
 	path = biomaRt
 	url = https://github.com/grimbough/biomaRt
-	shallow = true
-	registered = true
 [submodule "FITfileR"]
 	path = FITfileR
 	url = https://github.com/grimbough/FITfileR
-	shallow = true
-	registered = true
 [submodule "msmbstyle"]
 	path = msmbstyle
 	url = https://github.com/grimbough/msmbstyle
-	shallow = true
-	registered = true
 [submodule "IONiseR"]
 	path = IONiseR
 	url = https://github.com/grimbough/IONiseR
-	shallow = true
-	registered = true
 [submodule "arrayQualityMetrics"]
 	path = arrayQualityMetrics
 	url = https://github.com/grimbough/arrayQualityMetrics
-	shallow = true
-	registered = true
 [submodule "BeadDataPackR"]
 	path = BeadDataPackR
 	url = https://github.com/grimbough/BeadDataPackR
-	shallow = true
-	registered = true
 [submodule "beadarray"]
 	path = beadarray
 	url = https://git.bioconductor.org/packages/beadarray
-	shallow = true
-	registered = true
