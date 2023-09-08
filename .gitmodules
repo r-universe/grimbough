@@ -2,33 +2,33 @@
 	path = .registry
 	url = https://github.com/grimbough/universe
 	branch = HEAD
-[submodule "rhdf5"]
-	path = rhdf5
-	url = https://github.com/grimbough/rhdf5
-[submodule "Rhdf5lib"]
-	path = Rhdf5lib
-	url = https://github.com/grimbough/Rhdf5lib
-[submodule "rhdf5filters"]
-	path = rhdf5filters
-	url = https://github.com/grimbough/rhdf5filters
-[submodule "biomaRt"]
-	path = biomaRt
-	url = https://github.com/grimbough/biomaRt
-[submodule "FITfileR"]
-	path = FITfileR
-	url = https://github.com/grimbough/FITfileR
-[submodule "msmbstyle"]
-	path = msmbstyle
-	url = https://github.com/grimbough/msmbstyle
-[submodule "IONiseR"]
-	path = IONiseR
-	url = https://github.com/grimbough/IONiseR
-[submodule "arrayQualityMetrics"]
-	path = arrayQualityMetrics
-	url = https://github.com/grimbough/arrayQualityMetrics
 [submodule "BeadDataPackR"]
 	path = BeadDataPackR
 	url = https://github.com/grimbough/BeadDataPackR
+[submodule "FITfileR"]
+	path = FITfileR
+	url = https://github.com/grimbough/FITfileR
+[submodule "IONiseR"]
+	path = IONiseR
+	url = https://github.com/grimbough/IONiseR
+[submodule "Rhdf5lib"]
+	path = Rhdf5lib
+	url = https://github.com/grimbough/Rhdf5lib
+[submodule "arrayQualityMetrics"]
+	path = arrayQualityMetrics
+	url = https://github.com/grimbough/arrayQualityMetrics
 [submodule "beadarray"]
 	path = beadarray
 	url = https://git.bioconductor.org/packages/beadarray
+[submodule "biomaRt"]
+	path = biomaRt
+	url = https://github.com/grimbough/biomaRt
+[submodule "msmbstyle"]
+	path = msmbstyle
+	url = https://github.com/grimbough/msmbstyle
+[submodule "rhdf5"]
+	path = rhdf5
+	url = https://github.com/grimbough/rhdf5
+[submodule "rhdf5filters"]
+	path = rhdf5filters
+	url = https://github.com/grimbough/rhdf5filters
