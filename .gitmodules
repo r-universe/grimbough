@@ -11,6 +11,9 @@
 [submodule "IONiseR"]
 	path = IONiseR
 	url = https://github.com/grimbough/IONiseR
+[submodule "Rarr"]
+	path = Rarr
+	url = https://github.com/grimbough/Rarr
 [submodule "Rhdf5lib"]
 	path = Rhdf5lib
 	url = https://github.com/grimbough/Rhdf5lib
