@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/grimbough/universe
+	url = https://github.com/grimbough/grimbough.r-universe.dev
 	branch = HEAD
 [submodule "BeadDataPackR"]
 	path = BeadDataPackR
